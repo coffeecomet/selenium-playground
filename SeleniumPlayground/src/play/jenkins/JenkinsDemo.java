@@ -8,6 +8,7 @@ public class JenkinsDemo {
 	public void test(){
 		
 		System.out.println("Hello Jenkins!");
+		System.out.println("Test");
 	}
 
 }
